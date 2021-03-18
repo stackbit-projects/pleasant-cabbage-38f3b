@@ -74,7 +74,7 @@ sections:
     title: Testimonials
     subtitle: We Welcome you to express yours' ideas and experience with us.
     reviews:
-      - author: Katsha De Bank
+      - author: Katsha De'BANK
         avatar: images/review1.jpg
         avatar_alt: Eric Widget's photo
         content: >-
