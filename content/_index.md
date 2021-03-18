@@ -24,8 +24,7 @@ sections:
 
       benefit in the world of Technology.
     features:
-      - title: The Best Feature of Your Services
-        image: images/8_thumb.jpg
+      - image: images/8_thumb.jpg
         image_alt: App preview on a phone and tablet
         content: >
           Our motivation indicates that what we do and how we behave with our
