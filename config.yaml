@@ -35,6 +35,7 @@ params:
           - label: About Us
             style: link
             new_window: true
+            url: /about
           - label: Blog
             url: /blog
             style: link
