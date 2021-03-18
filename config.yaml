@@ -85,7 +85,9 @@ params:
             new_window: true
       - type: footer_form
         title: Subscribe
-        content: Stay up to date with our latest developments.
+        content: |
+
+          Stay active to date with our modern advances.
         form_id: contactForm
         hide_labels: true
         form_fields:
