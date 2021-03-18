@@ -17,8 +17,12 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      HSNA
+
+      TECHNOLOGIES PRIVATE LIMITED Private Limited admiring around its produces.
+      We are here for your
+
+      benefit in the world of Technology.
     features:
       - title: The Best Feature of Your Services
         image: images/8_thumb.jpg
