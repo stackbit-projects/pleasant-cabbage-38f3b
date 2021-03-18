@@ -92,7 +92,10 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Hire Us for Web Development
-    subtitle: We
+    subtitle: |-
+      We offer a wide scale of services that include: Business
+      Intelligence Applications, Web Hosting and Web Maintenance, E-commerce web
+      Applications Development
     actions:
       - label: Get Started
         url: /signup
