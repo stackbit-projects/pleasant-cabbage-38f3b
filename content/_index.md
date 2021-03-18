@@ -63,7 +63,7 @@ sections:
           Support and services
         actions:
           - label: Learn More
-            url: /features
+            url: '/#'
             style: secondary
             has_icon: true
             icon: arrow-right
