@@ -37,10 +37,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        title: >-
-          These motivations indicate that what we do and how we behave with our
-          clients. We struggle for excellence in everything from product
-          development to sales and customer support. 
       - title: Awesome Feature of Your Services
         image: images/intro.jpg
         image_alt: App users welcoming a new member
