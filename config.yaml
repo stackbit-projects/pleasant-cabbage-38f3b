@@ -53,7 +53,7 @@ params:
             has_icon: true
             icon: twitter
             icon_position: left
-          - label: Face
+          - label: FaceBook
             url: '#'
             style: link
             has_icon: false
