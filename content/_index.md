@@ -92,7 +92,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Hire Us for Web Development
-    subtitle: This is an optional description for the call to action block.
+    subtitle: We
     actions:
       - label: Get Started
         url: /signup
