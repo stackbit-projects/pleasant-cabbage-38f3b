@@ -37,6 +37,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+        title: Oy
       - title: Awesome Feature of Your Services
         image: images/intro.jpg
         image_alt: App users welcoming a new member
