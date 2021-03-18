@@ -55,7 +55,7 @@ sections:
             icon: arrow-right
             icon_position: right
             url: '#'
-      - title: Strong Implementation
+      - title: 'Strong Implementation '
         image: images/12.jpg
         image_alt: App user profile preview
         content: >-
