@@ -108,6 +108,7 @@ params:
         style: link
     content: "&copy; HSNA\_ TECHNOLOGIES PRIVATE LIMITED. All rights reserved."
   domain: 'https://www.hsnatech.com'
+  favicon: images/perpetual-mars.jpg
 taxonomies:
   stub: stub
 disableKinds:
