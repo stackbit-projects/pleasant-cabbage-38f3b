@@ -76,7 +76,7 @@ sections:
     reviews:
       - author: Katsha De'BANK
         avatar: images/katsha hsnatech.jpg
-        avatar_alt: Eric Widget's photo
+        avatar_alt: Katsha De'BANK
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
