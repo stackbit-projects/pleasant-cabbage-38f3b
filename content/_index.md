@@ -41,10 +41,13 @@ sections:
       - title: Best Feature of Our Services
         image: images/intro.jpg
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >+
+          Our hardworking and dedicated team intentions is to provide powerful
+          business tools and services that you need for a profitable presence.
+          We offer a wide spectrum of services
+
+
+
         actions:
           - label: Learn More
             url: /features
