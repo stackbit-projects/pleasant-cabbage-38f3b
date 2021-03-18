@@ -55,7 +55,7 @@ sections:
             icon: arrow-right
             icon_position: right
             url: '#'
-      - title: Strong Support
+      - title: 'Strong Support '
         image: images/12.jpg
         image_alt: App user profile preview
         content: >-
