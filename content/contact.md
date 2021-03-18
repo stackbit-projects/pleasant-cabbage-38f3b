@@ -5,10 +5,12 @@ sections:
     type: section_contact
     background: gray
     title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: >
+      Please get in touch with us, we assure you that we will resolve all your
+      web related matters in professional way. When you feel any problem in your
+      website. Just let us know through our official email or fill the following
+      form. Our professional team of developers and designer will assist you as
+      soon as possible.
     form_id: contactForm
     form_fields:
       - input_type: text
