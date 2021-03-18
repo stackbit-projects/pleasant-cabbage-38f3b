@@ -28,7 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 image: images/famous-stegosaurus.jpg
-subtitle: About Us
+subtitle: HSNA TECHNOLOGIES PRIVATE LIMITED Private Limited admiring around its produces
 ---
 HSNA TECHNOLOGIES PRIVATE LIMITED Private Limited admiring around its produces. But first and most we are passionate about our customers. We are here for your benefit in the world of Technology. These motivations indicate that what we do and how we behave with our clients. We struggle for excellence in everything from product development to sales and customer support. 
 
