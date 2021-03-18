@@ -38,7 +38,7 @@ sections:
             icon: arrow-right
             icon_position: right
         title: OUR PROFESSIONAL SERVICES
-      - title: Awesome Feature of Your Services
+      - title: Best Feature of Our Services
         image: images/intro.jpg
         image_alt: App users welcoming a new member
         content: >-
