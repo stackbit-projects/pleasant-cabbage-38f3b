@@ -107,10 +107,7 @@ seo:
   description: >-
     HSNA TECHNOLOGIES PRIVATE LIMITED Software company is a leading global
     provider of system firmware and software engineering services for companies
-    in the mobile, desktop, server, and embedded systems industries. HSNA
-    TECHNOLOGIES PRIVATE LIMITED provides results motivated I.T related business
-    solutions for startup, medium-sized, and enterprise brands all over the
-    world.
+    in the mobile, desktop, server, and embedded systems industries.
   extra:
     - name: 'og:type'
       value: website
