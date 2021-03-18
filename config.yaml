@@ -54,7 +54,7 @@ params:
             icon: twitter
             icon_position: left
           - label: FaceBook
-            url: '#'
+            url: 'https://www.facebook.com/Hsnatech'
             style: link
             has_icon: true
             icon: facebook
