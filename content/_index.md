@@ -15,7 +15,13 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    reviews: []
+    reviews:
+      - author: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        type: review_item
     title: Features
   - section_id: call-to-action
     type: section_cta
