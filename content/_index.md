@@ -49,7 +49,7 @@ sections:
 
 
         actions:
-          - label: Learn More
+          - label: Moreover
             url: /features
             style: secondary
             has_icon: true
