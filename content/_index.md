@@ -10,7 +10,7 @@ sections:
       Proficient Web Development Features Providers in Pakistan
     actions:
       - label: Learn More
-        url: /features
+        url: /f
         style: primary
   - section_id: features
     type: section_features
