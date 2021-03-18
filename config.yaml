@@ -5,7 +5,7 @@ params:
   palette: blue
   header:
     logo_img: images/hsnatech.jpg
-    logo_img_alt: Logo
+    logo_img_alt: hsnatech.com
     has_nav: true
     nav_links:
       - label: Home
