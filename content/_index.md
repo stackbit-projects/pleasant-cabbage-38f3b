@@ -75,7 +75,7 @@ sections:
     subtitle: We Welcome you to express yours' ideas and experience with us.
     reviews:
       - author: Katsha De'BANK
-        avatar: images/review1.jpg
+        avatar: images/katsha hsnatech.jpg
         avatar_alt: Eric Widget's photo
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
