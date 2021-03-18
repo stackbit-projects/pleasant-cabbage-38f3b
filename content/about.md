@@ -1,6 +1,5 @@
 ---
 title: About Us
-image_alt: Team members in a conference room
 seo:
   title: About Us
   description: This is the about page
