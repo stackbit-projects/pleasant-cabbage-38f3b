@@ -17,12 +17,8 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      HSNA
-
-      TECHNOLOGIES PRIVATE LIMITED Private Limited admiring around its produces.
-      We are here for your
-
-      benefit in the world of Technology.
+      HSNATECHNOLOGIES PRIVATE LIMITED Private Limited admiring around its
+      produces. We are here for your benefit in the world of Technology.
     features:
       - image: images/8_thumb.jpg
         image_alt: App preview on a phone and tablet
