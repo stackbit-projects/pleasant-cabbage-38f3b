@@ -72,9 +72,7 @@ sections:
     type: section_reviews
     background: white
     title: Testimonials
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+    subtitle: We Welcome you to express yours' ideas and experience with us.
     reviews:
       - author: Eric Widget
         avatar: images/review1.jpg
