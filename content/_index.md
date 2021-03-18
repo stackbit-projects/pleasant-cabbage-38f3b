@@ -16,6 +16,7 @@ sections:
     type: section_reviews
     background: white
     reviews: []
+    title: Features
   - section_id: call-to-action
     type: section_cta
     title: Hire Us for Web Development
