@@ -106,7 +106,7 @@ seo:
   title: HSNA TECHNOLOGIES PRIVATE LIMITED
   description: >-
     HSNA TECHNOLOGIES PRIVATE LIMITED is worldwide leading Software and Web
-    Development Company. Web Hosting and other I.T srvices
+    Development Company.
   extra:
     - name: 'og:type'
       value: website
