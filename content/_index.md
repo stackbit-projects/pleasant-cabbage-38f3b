@@ -7,7 +7,7 @@ sections:
     image_alt: HSNA TECHNOLOGIES PRIVATE LIMITED
     title: Websites Development
     content: |
-      Proficient Web Development Features Providers in Pakistan
+      Provides Proficient Web Development Features Providers in Pakistan
     actions:
       - label: Further More
         style: primary
