@@ -50,7 +50,6 @@ sections:
 
         actions:
           - label: Moreover
-            url: /features
             style: secondary
             has_icon: true
             icon: arrow-right
