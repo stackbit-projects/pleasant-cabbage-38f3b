@@ -27,7 +27,7 @@ sections:
         default_value: Please select
         options:
           - Need our services
-          - Sponsorship
+          - Support
           - Other
       - input_type: textarea
         name: message
