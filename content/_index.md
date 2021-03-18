@@ -58,10 +58,9 @@ sections:
       - title: 'Strong Support '
         image: images/12.jpg
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Our motivation indicates that what we do and how we provide strong
+          Support and services
         actions:
           - label: Learn More
             url: /features
