@@ -1,6 +1,6 @@
 ---
 title: About Us
-image: images/about.jpg
+image: images/hsnatech aboutus.jpg
 image_alt: Team members in a conference room
 seo:
   title: About Us
