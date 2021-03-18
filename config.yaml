@@ -65,6 +65,7 @@ params:
             has_icon: true
             icon: github
             icon_position: left
+            new_window: true
       - type: footer_form
         title: Subscribe
         content: Stay up to date with our latest developments.
