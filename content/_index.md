@@ -69,13 +69,7 @@ sections:
     background: white
     title: Testimonials
     subtitle: We Welcome you to express yours' ideas and experience with us.
-    reviews:
-      - author: Katsha De'BANK
-        avatar_alt: Katsha De'BANK
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        avatar: images/melodic-plankton.jpg
+    reviews: []
   - section_id: call-to-action
     type: section_cta
     title: Hire Us for Web Development
