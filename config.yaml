@@ -29,7 +29,8 @@ params:
         image: images/perpetual-aluminum.jpg
         image_url: /
         image_alt: HSNA TECHNOLOGIES PRIVATE LIMITED
-        content: Stackbit theme demo
+        content: |
+          HSNA TECHNOLOGIES PRIVATE LIMITED
       - type: footer_nav
         title: Company
         nav_links:
