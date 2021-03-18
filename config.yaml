@@ -33,7 +33,6 @@ params:
         title: Company
         nav_links:
           - label: About Us
-            url: /
             style: link
           - label: Blog
             url: /blog
