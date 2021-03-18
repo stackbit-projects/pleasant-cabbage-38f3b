@@ -54,7 +54,7 @@ params:
             icon: twitter
             icon_position: left
           - label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: 'https://www.linkedin.com/in/shahid-hussain-abro-036a8719/'
             style: link
             has_icon: true
             icon: linkedin
