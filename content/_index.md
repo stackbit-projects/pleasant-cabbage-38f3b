@@ -27,10 +27,10 @@ sections:
       - title: The Best Feature of Your Services
         image: images/8_thumb.jpg
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Our motivation indicates that what we do and how we behave with our
+          respected clients. We struggle more for excellence in everything from
+          product development to sales and support. 
         actions:
           - label: Learn More
             url: /features
