@@ -15,7 +15,6 @@ sections:
   - section_id: reviews
     type: section_reviews
     background: white
-    subtitle: We Welcome you to express yours' ideas and experience with us.
     reviews: []
   - section_id: call-to-action
     type: section_cta
