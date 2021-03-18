@@ -54,6 +54,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+            url: '#'
       - title: Cool Feature of Your Services
         image: images/12.jpg
         image_alt: App user profile preview
