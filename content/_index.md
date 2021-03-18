@@ -11,6 +11,7 @@ sections:
     actions:
       - label: Learn More
         style: primary
+        url: '#'
   - section_id: features
     type: section_features
     background: gray
