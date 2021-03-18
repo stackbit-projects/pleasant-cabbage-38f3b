@@ -105,27 +105,12 @@ sections:
 seo:
   title: HSNA TECHNOLOGIES PRIVATE LIMITED
   description: >-
-    Like most software / Computer companies, HSNA TECHNOLOGIES PRIVATE LIMITED
-    adoring about our products. But first and most we are passionate about our
-    customers. We’re here for your benefit in the world of Technology. These
-    motivations indicate that what we do and how we behave with our clients. We
-    struggle for excellence in everything from product development to sales and
-    customer support.
-
     HSNA TECHNOLOGIES PRIVATE LIMITED Software company is a leading global
     provider of system firmware and software engineering services for companies
     in the mobile, desktop, server, and embedded systems industries. HSNA
     TECHNOLOGIES PRIVATE LIMITED provides results motivated I.T related business
     solutions for startup, medium-sized, and enterprise brands all over the
     world.
-
-    Our hardworking and dedicated team intentions is to provide powerful
-    business tools and services that you need for a profitable presence. We
-    offer a wide spectrum of services that includes: Technology Consulting,
-    Software Prototyping, Custom Software Development, Software Product
-    Development, Enterprise Application Integration, Application Security,
-    Virtualization Management, Software QA and Testing, Dedicated Development
-    Centers, Customer Service, Develops-as-a-Service.
   extra:
     - name: 'og:type'
       value: website
