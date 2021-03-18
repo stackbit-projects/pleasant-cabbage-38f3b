@@ -53,15 +53,6 @@ params:
             has_icon: true
             icon: twitter
             icon_position: left
-          - label: FaceBook
-            url: '#'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: left
-            new_window: false
-            no_follow: false
-            type: action
           - label: LinkedIn
             url: 'https://www.linkedin.com/in/shahid-hussain-abro-036a8719/'
             style: link
