@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/11_thumb.jpg
-    image_alt: App preview
+    image_alt: HSNA TECHNOLOGIES
     title: Websites Development
     content: |
       Proficient Web Development Features Providers in Pakistan
